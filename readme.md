@@ -1,7 +1,13 @@
 # Gen-img Platform
 
 ## Introduction
-This is a management backend for Stable Diffusion image generation. It provides APIs to support text-to-image, image-to-image, ControlNet, image upscaling, and more. It also supports uploads to cloud storage services such as AWS and Qiniu. The platform utilizes asynchronous workers and supports multiple instances of Stable Diffusion, allowing for distributed processing.
+AI-Generated Content (AIGC) refers to digital creations produced by artificial intelligence, such as text, images, music, and videos. Tools like Llama, GPT for text, and Midjourney, DALL·E for images are making content creation faster and more accessible.
+
+This open-source framework consists of several key modules that work together to provide a complete solution for AIGC generation and verification. 
+
+The Content Generation and Inference module is responsible for generating actual content from AI models, such as text, images, audio, etc. (The framework will initially focus on the image generation domain.) Through AIGC DAO’s open-source framework, creators can call upon various AI models to generate content that meets their needs. These generated contents will be processed through model inference and output the works that best meet the requirements.
+
+This is a management backend for Stable Diffusion image generation, part of the Content Generation and Inference module. It provides APIs to support text-to-image, image-to-image, ControlNet, image upscaling, and more. It also supports uploads to cloud storage services such as AWS and Qiniu. The platform utilizes asynchronous workers and supports multiple instances of Stable Diffusion, allowing for distributed processing.
 
 ---
 
