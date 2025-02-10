@@ -1,4 +1,5 @@
-# Gen-img Platform
+# AIGC DAO Framework, the Gen-img Module
+![MIT License](https://img.shields.io/badge/License-MIT-green.svg)
 
 ## Introduction
 AI-Generated Content (AIGC) refers to digital creations produced by artificial intelligence, such as text, images, music, and videos. Tools like Llama, GPT for text, and Midjourney, DALL·E for images are making content creation faster and more accessible.
